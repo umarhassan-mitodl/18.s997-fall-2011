@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ]
+  ],
+  "legacy_uid": "df24ba19-002e-5b03-39ab-8ace6e254ffd",
+  "instructors": {
+    "content": [
+      "c0b57fe0-cef5-2533-2569-1640ac72a098"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f5e3d4a8-5167-1a69-0f03-7c1f6e91abf9",
+    "website": "18-s997-introduction-to-matlab-programming-fall-2011"
+  },
+  "course_title": "Introduction To MATLAB Programming",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This course is intended to assist undergraduates with learning the basics of programming in general and programming MATLAB\u00ae in particular.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.S997",
+  "course_image_thumbnail": {
+    "content": "8d4974c3-08fc-ba73-dd82-10a64eba97fe",
+    "website": "18-s997-introduction-to-matlab-programming-fall-2011"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Videos",
+    "Programming Assignments with Examples"
+  ],
+  "site_uid": "1dafcc85-0503-4f98-af6a-bac0aa40cda4",
+  "site_short_id": "18.s997-fall-2011",
+  "site_url_path": "courses/18-s997-introduction-to-matlab-programming-fall-2011",
+  "title": "Course Metadata"
+}
