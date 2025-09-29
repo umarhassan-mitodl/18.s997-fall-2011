@@ -5,6 +5,8 @@ description: "Example of Conway\u2019s Game of Life after multiple iterations of
 file: /courses/18-s997-introduction-to-matlab-programming-fall-2011/8742cd78f14e8cd449c0fbae0fc3cd36_Unit_7_image.JPG
 file_size: 101719
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "Example of Conway\u2019s Game of Life after multiple iterations of Conway\u2019\
     s Game of Life."

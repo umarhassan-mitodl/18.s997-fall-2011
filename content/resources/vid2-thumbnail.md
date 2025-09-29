@@ -4,6 +4,8 @@ description: New image Upload
 file: /courses/18-s997-introduction-to-matlab-programming-fall-2011/85c8674df183ffeb254102cb6ffce0f7_vid2-thumbnail.jpg
 file_size: 32530
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

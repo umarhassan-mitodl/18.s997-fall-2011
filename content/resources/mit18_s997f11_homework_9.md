@@ -4,6 +4,8 @@ description: This resource contains information regarding homework 9.
 file: /courses/18-s997-introduction-to-matlab-programming-fall-2011/d3829302dd6158965702cf151f73e916_MIT18_S997F11_Homework_9.pdf
 file_size: 129076
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

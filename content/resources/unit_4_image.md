@@ -5,6 +5,8 @@ description: For more complex calculations and tasks, functions can be created a
 file: /courses/18-s997-introduction-to-matlab-programming-fall-2011/36f255a2ce336eaa5299d030e4970a98_Unit_4_image.jpg
 file_size: 75153
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: For more complex calculations and tasks, functions can be created and defined
     in MATLAB.

@@ -2,6 +2,8 @@
 content_type: page
 description: This section includes lecture notes on plotting in MATLAB and a related
   video.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Basic Plotting

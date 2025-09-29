@@ -2,6 +2,8 @@
 content_type: page
 description: This page includes lecture notes on how to create a user-defined function
   in MATLAB.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Vectorization and User-Defined Functions

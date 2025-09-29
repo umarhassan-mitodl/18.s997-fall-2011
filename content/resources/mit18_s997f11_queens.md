@@ -4,6 +4,8 @@ description: This resource contains information regarding queens on a chessboard
 file: /courses/18-s997-introduction-to-matlab-programming-fall-2011/ec7538f5ad89726292c0ac23269a82e6_MIT18_S997F11_Queens.pdf
 file_size: 148106
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
