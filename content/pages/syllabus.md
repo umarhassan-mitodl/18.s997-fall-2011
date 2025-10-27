@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, required software, video lectures, grading, and
   tips on using the course site.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -36,7 +34,7 @@ Students need to have access to a computer with MATLAB installed. Which version 
 
 The students should have a way to access their files whenever they start working. If no other solution is possible, a USB "stick" can easily hold the student's files. The students need to have access to MATLAB outside of class hours.
 
-\[_Note to OCW Users_: MIT OpenCourseWare does not provide student access or discounts for [MATLAB software](http://www.mathworks.com/products/matlab/). It can be purchased from The MathWorks®. For more information about [MATLAB Pricing and Licensing](http://www.mathworks.com/products/matlab/pricing_licensing.html?s_iid=ML2012_pricing_a#commercial_use), contact [The MathWorks](http://www.mathworks.com/index.html)® directly.\]
+\[_Note to OCW Users_: MIT OpenCourseWare does not provide student access or discounts for {{% resource_link "faa5452a-8493-46e2-a07b-2ad937adea4a" "MATLAB software" %}}. It can be purchased from The MathWorks®. For more information about {{% resource_link "a1ed31fb-ff8c-4f47-9b15-9bdf10d69af9" "MATLAB Pricing and Licensing" %}}, contact {{% resource_link "fafff2f0-3ed4-49bf-97d0-c904b678e256" "The MathWorks" %}}® directly.\]
 
 ### Video Lectures
 
