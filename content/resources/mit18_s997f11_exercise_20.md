@@ -4,8 +4,6 @@ description: This resource contains information regarding exercise 20.
 file: /courses/18-s997-introduction-to-matlab-programming-fall-2011/ad1927f1f354712e8749e21e935a3ff5_MIT18_S997F11_Exercise_20.pdf
 file_size: 108141
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

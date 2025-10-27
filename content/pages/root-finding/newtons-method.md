@@ -119,6 +119,6 @@ _Notice that the starting point is important. Find starting points that converge
 
 \*Also referred to as the Newton-Raphson Method.
 
-†See [Methods of computing square roots](http://en.wikipedia.org/wiki/Methods_of_computing_square_roots) on Wikipedia for a reference.
+†See {{% resource_link "0037162d-c184-4483-ac99-820811687285" "Methods of computing square roots" %}} on Wikipedia for a reference.
 
 ‡The notation 1e–15 is legal notation in MATLAB and it means \\(1\\times10^{-15}\\). Also,with MATLAB 1e–16 is the smallest _precision_ (not number) possible i.e., 1+1e–16=1 (although 1+2e–16≠1)

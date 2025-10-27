@@ -2,8 +2,6 @@
 content_type: page
 description: This section includes lecture notes on the concept of debugging and how
   to use MATLAB's debugger.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Debugging with MATLAB

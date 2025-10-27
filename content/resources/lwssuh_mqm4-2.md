@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-s997-introduction-to-matlab-programming-fall-2011/c0979bc1e50b5de3a5fb996b32bd441b_lWSsUH_MQM4.vtt
 file_size: 10051
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

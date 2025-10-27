@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This page contains warm-up problems on some MATLAB basics.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Root-Finding

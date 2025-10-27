@@ -2,8 +2,6 @@
 content_type: page
 description: This section includes a content overview of the MATLAB skills involved
   in implementing a root-finding algorithm.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Root-Finding

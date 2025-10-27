@@ -2,8 +2,6 @@
 content_type: page
 description: This page includes lecture notes and an exercise on manipulating lists,
   vectors, and matrices.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: The Basics

@@ -6,8 +6,6 @@ description: MATLAB can graph both functions and non-functions, as demonstrated 
 file: /courses/18-s997-introduction-to-matlab-programming-fall-2011/82c0f0e7b907c84465b23c309c5b3eee_Unit_3_image.jpg
 file_size: 35272
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: MATLAB can graph both functions and non-functions, as demonstrated by the
     circle and Lissajous curves.
